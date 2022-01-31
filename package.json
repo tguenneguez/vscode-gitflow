@@ -86,6 +86,11 @@
                 "category": "Git-Flow"
             },
             {
+                "command": "gitflow.changeWorkspace",
+                "title": "Change Workspace",
+                "category": "Git-Flow"
+            },
+            {
                 "command": "gitflow.newFeature",
                 "title": "Feature - Start",
                 "category": "Git-Flow",
